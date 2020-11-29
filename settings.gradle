@@ -1,0 +1,3 @@
+rootProject.name='EasyAidl'
+include ':app'
+include ':lib_easyaidl'
