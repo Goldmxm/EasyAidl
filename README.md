@@ -1,2 +1,2 @@
 # EasyAidl
-Make it easier for you to use
+Make it easier for you to use aidl
